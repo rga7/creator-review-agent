@@ -1,0 +1,34 @@
+[
+  {"campaign_id": "CAMP-TEA", "name": "BrightLeaf Tea Summer Launch", "brand": "BrightLeaf",
+   "category": "food_beverage",
+   "duration_s": {"min": 15, "max": 45}, "aspect_ratio": "9:16",
+   "disclosure_tags": ["#ad", "#sponsored"],
+   "required_hashtags": ["#brightleafsummer"],
+   "required_mentions": ["@brightleaftea"],
+   "talking_points": [
+     {"id": "flavor", "label": "mention the peach-ginger flavor", "any_of": ["peach", "ginger"]},
+     {"id": "no_sugar", "label": "say it has no added sugar",
+      "any_of": ["no added sugar", "zero sugar", "sugar free", "sugar-free"]}
+   ],
+   "banned_phrases": ["detox", "cures", "guaranteed weight loss"]},
+  {"campaign_id": "CAMP-LUMA", "name": "Luma Serum Glow Challenge", "brand": "Luma",
+   "category": "beauty",
+   "duration_s": {"min": 15, "max": 60}, "aspect_ratio": "9:16",
+   "disclosure_tags": ["#ad", "#sponsored"],
+   "required_hashtags": ["#lumaglow"],
+   "required_mentions": ["@lumaskin"],
+   "talking_points": [
+     {"id": "texture", "label": "describe the serum texture", "any_of": ["texture", "lightweight", "silky"]}
+   ],
+   "banned_phrases": ["cures", "heals", "guaranteed", "clinically proven"]},
+  {"campaign_id": "CAMP-STRIDE", "name": "StrideUp App 30-Day Walking Streak", "brand": "StrideUp",
+   "category": "apps",
+   "duration_s": {"min": 20, "max": 50}, "aspect_ratio": "9:16",
+   "disclosure_tags": ["#ad", "#sponsored"],
+   "required_hashtags": ["#strideupstreak"],
+   "required_mentions": ["@strideupapp"],
+   "talking_points": [
+     {"id": "streak", "label": "show your daily streak counter", "any_of": ["streak"]}
+   ],
+   "banned_phrases": ["guaranteed weight loss", "lose 10 pounds"]}
+]

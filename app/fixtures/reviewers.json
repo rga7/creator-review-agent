@@ -1,0 +1,5 @@
+[
+  {"reviewer_id": "R-1", "name": "Dana", "specialties": ["beauty"], "agreement_rate": 0.94},
+  {"reviewer_id": "R-2", "name": "Marcus", "specialties": ["food_beverage", "apps"], "agreement_rate": 0.91},
+  {"reviewer_id": "R-3", "name": "Priya", "specialties": ["beauty", "food_beverage", "apps"], "agreement_rate": 0.88}
+]

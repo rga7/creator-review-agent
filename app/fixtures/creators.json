@@ -1,0 +1,8 @@
+[
+  {"creator_id": "CR-101", "handle": "@maya.makes", "full_name": "Maya Okafor",
+   "email": "maya@example.com", "payout_last4": "7731", "phone": "+14045550142"},
+  {"creator_id": "CR-102", "handle": "@leo.cooks", "full_name": "Leo Tanaka",
+   "email": "leo@example.com", "payout_last4": "2209", "phone": "+16505550188"},
+  {"creator_id": "CR-103", "handle": "@saraglows", "full_name": "Sara Idris",
+   "email": "sara@example.com", "payout_last4": "5560", "phone": "+12125550117"}
+]
