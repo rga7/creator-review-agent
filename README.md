@@ -53,11 +53,6 @@ details from: full name, email, last four of the payout account, phone.
   without a reason. The originality flag is never shown to creators.
 
 ## Example runs
-
-Copied from manual runs on 15 October 2026 with `claude-sonnet-5-5`. The prompts
-have been edited since, so current replies may be worded differently. The
-decisions and facts come from code and don't change between runs.
-
 **Escalation: restricted claim, routed to a human reviewer**
 
 ```
